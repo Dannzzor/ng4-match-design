@@ -1,6 +1,6 @@
 # Matching Design
 
-This project was a code challenge to replicate the design shown here: [UI Design](https://github.com/Dannzzor/ng4-contact-list/blob/master/public/assets/207630115.png)
+This project was a code challenge to replicate the design shown here: [UI Design](https://github.com/Dannzzor/ng4-match-design/blob/master/public/assets/207630115.png)
 
 ## Development server
 
